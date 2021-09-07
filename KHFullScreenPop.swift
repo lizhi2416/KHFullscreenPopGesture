@@ -2,7 +2,7 @@
 //  KHFullScreenPop.swift
 //  KeepHolding
 //
-//  Created by 蒋理智 on 2021/9/7.
+//  Created by 理智 on 2021/9/7.
 //
 
 import Foundation
