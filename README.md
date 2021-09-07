@@ -1,0 +1,2 @@
+# KHFullscreenPopGesture
+swift版全屏返回，新增返回手势作用区域设置功能
